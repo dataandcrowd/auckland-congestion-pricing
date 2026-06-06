@@ -55,6 +55,12 @@ We use **TomTom Traffic Stats – Area Analysis** to estimate congestion levels 
 
 This repository is maintained by a research group of academics and students from the **University of Auckland**, specialising in **GIScience, Urban Analytics, and Environmental Health**.
 
+Additional collaborator:
+
+- **Saeid Adli** – *Spatial Economics*  
+  📧 [saeid.adli@spatialeconomics.co.nz](mailto:saeid.adli@spatialeconomics.co.nz)
+
+
 ---
 
 ## 📄 Outputs
@@ -70,3 +76,6 @@ This repository is maintained by a research group of academics and students from
 For collaboration or data inquiries, please contact:  
 **Dr Hyesop Shin** – *Lecturer in GIScience, University of Auckland*  
 📧 [hyesop.shin@auckland.ac.nz](mailto:hyesop.shin@auckland.ac.nz)
+
+**Saeid Adli** – *Spatial Economics*  
+📧 [saeid.adli@spatialeconomics.co.nz](mailto:saeid.adli@spatialeconomics.co.nz)
